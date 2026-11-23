@@ -1,0 +1,3 @@
+Add your own photos here using these exact filenames:
+profile.jpg (portrait), campus.jpg, project.jpg, events.jpg.
+Until then, the gallery uses online sample fallback images.
